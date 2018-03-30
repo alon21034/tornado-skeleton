@@ -4,7 +4,7 @@ import re
 import threading
 
 from base.singleton import Singleton
-from command.list_command import TestCommand
+from command.test_command import TestCommand
 from util.locker import Locker
 
 # http path
